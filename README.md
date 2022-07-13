@@ -1,51 +1,30 @@
-## Oiii eu sou a Gabriela Romualdo!
-
-```
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIP - Universidade Paulista,
-Atualmenete estou me dedicando a me tornar uma dev Front-end.
-```
-
-<!DOCTYPE html>
 <html>
-  
-<head>
-    <title>
-        Create a Portfolio Gallery
-        using HTML and CSS
-    </title>
-     
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1">
-</head>
  
-<body>
+  <body>
       
     <!-- title and tag -->
     <div class="container">
-        <h1>GeeksforGeeks</h1>
-        <h3>A Computer Science Portal for Geeks</h3>
+        <h1>Olá me chamo Gabriela! ✌🏻👩🏻</h1>
+        <h3>Estudante de Análise e Desenvolvimento de Sistemas/h3>
+        <p>Atualmente atuo como Estagiária de Engenharia de Software, praticando meus conhecimentos adquiridos junto a cursos extracurriculares.
+        Sou uma desenvolvedora em formação, com interesse em aprender e adquirir conhecimentos para contribuir com meus colegas e time. Sou extremamente criativa e curiosa, venho estudando por conta, aprimorando minha autodidata, com muita dedicação e disciplina, habilidades que sei que são essenciais junto de uma equipe!</p>
         <hr>
   
         <!-- Content of the body-->
-        <h2>Portfolio</h2>
+        <h2>Projetos realizados</h2>
         <div class="row">
             <div class="column">
                 <div class="content">
                     <img src=
-"https://www.geeksforgeeks.org/wp-content/uploads/html.png"
+"https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg"
                         alt="" style="width:100%">
                     <h3>
-                        <a href="#">HTML Tutorials</a>
+                        <a href="https://gabih94.github.io/introducao-javascript/">HTML Tutorials</a>
                     </h3>
                      
  
 <p>
-                        HTML stands for Hyper Text Markup
-                        Language. It is used to design web
-                        pages using markup language. HTML
-                        is the combination of Hypertext and
-                        Markup language. Hypertext defines
-                        the link between the web pages.
+                        Projeto desenvolvido para explorar a sintaxe e como a linguagem de javaScript funciona, quais suas nuances e área de atuação, no Front-end, e na manipulação de página Web
                     </p>
  
  
