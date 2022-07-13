@@ -5,7 +5,7 @@
     <!-- title and tag -->
     <div class="container">
         <h1>Olá me chamo Gabriela! ✌🏻👩🏻</h1>
-        <h3>Estudante de Análise e Desenvolvimento de Sistemas/h3>
+        <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
         <p>Atualmente atuo como Estagiária de Engenharia de Software, praticando meus conhecimentos adquiridos junto a cursos extracurriculares.
         Sou uma desenvolvedora em formação, com interesse em aprender e adquirir conhecimentos para contribuir com meus colegas e time. Sou extremamente criativa e curiosa, venho estudando por conta, aprimorando minha autodidata, com muita dedicação e disciplina, habilidades que sei que são essenciais junto de uma equipe!</p>
         <hr>
@@ -84,7 +84,4 @@
             </div>
              
         </div>
-    </div>
-</body>
-  
-</html>
+
