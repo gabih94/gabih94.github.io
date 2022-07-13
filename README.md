@@ -17,100 +17,74 @@
                 <div class="content">
                     <img src=
 "https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg"
-                        alt="" style="width:100%">
+                        alt="" height="180em">
                     <h3>
-                        <a href="https://gabih94.github.io/introducao-javascript/">HTML Tutorials</a>
+                        <a href="https://gabih94.github.io/introducao-javascript/">Site Pacientes Imc</a>
                     </h3>
-                     
- 
-<p>
-                        Projeto desenvolvido para explorar a sintaxe e como a linguagem de javaScript funciona, quais suas nuances e área de atuação, no Front-end, e na manipulação de página Web
+                    <p>
+                        Projeto desenvolvido para explorar a sintaxe e como a linguagem de javaScript funciona, quais suas nuances e área de atuação, no Front-end, e na manipulação de página Web.
                     </p>
- 
- 
+                 </div>
+            </div>
+             
+            <div class="column">
+                <div class="content">
+                    <img src=
+"https://gabih94.github.io/topCasaFina-arquitetura/assets/depoimentos/depoimento1.png"
+                        alt="" height="180em">
+                    <h3>
+                        <a href="https://gabih94.github.io/topCasaFina-arquitetura/">Site Projeto Arquitetura</a>
+                    </h3>
+                    <p>
+                        Projeto de uma página responsiva, foi utilizado tecnologias como HTML, CSS, JavaScript, Jquery e Bootstrap.
+                    </p>
+                 </div>
+            </div>
+             
+            <div class="column">
+                <div class="content">
+                    <img src=
+"https://gabih94.github.io/projeto-base/assets/carrossel-img2.jpg"
+                        alt="" height="180em">
+                    <h3>
+                        <a href="https://gabih94.github.io/projeto-base/">Site de Receitas</a>
+                    </h3>
+                    <p>
+                        Projeto de uma página de receitas feita com Bootstrap
+                    </p>
                 </div>
             </div>
              
             <div class="column">
                 <div class="content">
                     <img src=
-"https://www.geeksforgeeks.org/wp-content/uploads/CSS.png"
-                        alt="" style="width:100%">
+"https://gabih94.github.io/alura-typer/assets/slide1.png"
+                        alt="" height="180em">
                     <h3>
-                        <a href="#">CSS Tutorials</a>
+                        <a href="https://gabih94.github.io/alura-typer/">Site de Jogo de palavras</a>
                     </h3>
-                     
-                     
- 
-<p>
-                        Cascading Style Sheets, fondly referred
-                        to as CSS, is a simply designed language
-                        intended to simplify the process of
-                        making web pages presentable. CSS allows
-                        you to apply styles to web pages.
+                    <p>
+                        Projeto de uma aplicação de um jogo que consegue medir a velocidade de digitação do usuário e contar as palavras digitadas, utilizando JavaScript e Jquery.
                     </p>
- 
- 
+                </div>
+            </div>
+         
+         <div class="column">
+                <div class="content">
+                    <img src=
+"https://gabih94.github.io/pagina_barbearia/assets/banner.jpg"
+                        alt="" height="180em">
+                    <h3>
+                        <a href="https://gabih94.github.io/pagina_barbearia/">Site Barbearia Alura</a>
+                    </h3>
+                    <p>
+                        Projeto da criação de uma pagina web utilizando HTML e CSS, com inclusão de formulários.
+                    </p>
                 </div>
             </div>
              
-            <div class="column">
-                <div class="content">
-                    <img src=
-"https://www.geeksforgeeks.org/wp-content/uploads/php-1.png"
-                        alt="" style="width:100%">
-                    <h3>
-                        <a href="#">PHP Tutorials</a>
-                    </h3>
-                     
-                     
- 
-<p>
-                        The term PHP is an acronym for PHP:
-                        Hypertext Preprocessor. PHP is a
-                        server-side scripting language
-                        designed specifically for web
-                        development. PHP can be easily
-                        embedded in HTML files.
-                    </p>
- 
- 
-                </div>
-            </div>
-             
-            <div class="column">
-                <div class="content">
-                    <img src=
-"https://www.geeksforgeeks.org/wp-content/uploads/javascript.png"
-                        alt="" style="width:100%">
-                    <h3>
-                        <a href="#">JavaScript Tutorials</a>
-                    </h3>
-                     
-                     
- 
-<p>
-                        Javascript was developed by Brendan
-                        Eich in 1995. At first, it was called
-                        LiveScript but was later name to
-                        JavaScript. JavaScript is the muscle
-                        of the structure
-                    </p>
- 
- 
-                </div>
-            </div>
         </div>
     </div>
 </body>
   
 </html>
-sites 
-<a href=https://gabih94.github.io/introducao-javascript/>
-
-Pagina inclusão Pacientes Imc: https://gabih94.github.io/introducao-javascript/
-Pagina Arquitetura: https://gabih94.github.io/topCasaFina-arquitetura/
-Pagina receitas: https://gabih94.github.io/projeto-base/
-Pagina Jogo de Escrita: https://gabih94.github.io/alura-typer/
-Pagina de Barbearia: https://gabih94.github.io/pagina_barbearia/
-Pagina de adoção Pet: https://gabih94.github.io/Adopet/
