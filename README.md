@@ -15,76 +15,67 @@
         <div class="row">
             <div class="column">
                 <div class="content">
-                    <img src=
-"https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg"
-                        alt="" height="180em">
                     <h3>
                         <a href="https://gabih94.github.io/introducao-javascript/">Site Pacientes Imc</a>
                     </h3>
                     <p>
                         Projeto desenvolvido para explorar a sintaxe e como a linguagem de javaScript funciona, quais suas nuances e área de atuação, no Front-end, e na manipulação de página Web.
                     </p>
+                    <img src="https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg" alt="" height="180em">                   
                  </div>
             </div>
              
             <div class="column">
                 <div class="content">
-                    <img src=
-"https://gabih94.github.io/topCasaFina-arquitetura/assets/depoimentos/depoimento1.png"
-                        alt="" height="180em">
                     <h3>
                         <a href="https://gabih94.github.io/topCasaFina-arquitetura/">Site Projeto Arquitetura</a>
                     </h3>
                     <p>
                         Projeto de uma página responsiva, foi utilizado tecnologias como HTML, CSS, JavaScript, Jquery e Bootstrap.
                     </p>
-                 </div>
+                    <img src="https://gabih94.github.io/topCasaFina-arquitetura/assets/depoimentos/depoimento1.png" alt="" height="180em">
+                </div>
             </div>
              
             <div class="column">
                 <div class="content">
-                    <img src=
-"https://gabih94.github.io/projeto-base/assets/carrossel-img2.jpg"
-                        alt="" height="180em">
                     <h3>
                         <a href="https://gabih94.github.io/projeto-base/">Site de Receitas</a>
                     </h3>
                     <p>
                         Projeto de uma página de receitas feita com Bootstrap
                     </p>
+                    <img src="https://gabih94.github.io/projeto-base/assets/carrossel-img2.jpg" alt="" height="180em">
                 </div>
             </div>
              
             <div class="column">
                 <div class="content">
-                    <img src=
-"https://gabih94.github.io/alura-typer/assets/slide1.png"
-                        alt="" height="180em">
                     <h3>
                         <a href="https://gabih94.github.io/alura-typer/">Site de Jogo de palavras</a>
                     </h3>
                     <p>
                         Projeto de uma aplicação de um jogo que consegue medir a velocidade de digitação do usuário e contar as palavras digitadas, utilizando JavaScript e Jquery.
                     </p>
+                    <img src="https://gabih94.github.io/alura-typer/assets/slide1.png" alt="" height="180em">
                 </div>
             </div>
          
          <div class="column">
                 <div class="content">
-                    <img src=
-"https://gabih94.github.io/pagina_barbearia/assets/banner.jpg"
-                        alt="" height="180em">
                     <h3>
                         <a href="https://gabih94.github.io/pagina_barbearia/">Site Barbearia Alura</a>
                     </h3>
                     <p>
                         Projeto da criação de uma pagina web utilizando HTML e CSS, com inclusão de formulários.
                     </p>
+                    <img src="https://gabih94.github.io/pagina_barbearia/assets/banner.jpg" alt="" height="180em">
                 </div>
             </div>
              
-           <!-- Content of the body--> 
+          
           <div align="center"> 
+            <!-- Content of the body--> 
             <a href="https://www.instagram.com/gabimromualdo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
            <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
             <a href = "mailto:gabimromualdo94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
