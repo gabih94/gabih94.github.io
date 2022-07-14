@@ -12,6 +12,7 @@
   
         <!-- Content of the body-->
         <h2>Projetos realizados</h2>
+     
         <div class="row">
             <div class="column">
                 <div class="content">
@@ -73,7 +74,7 @@
                 </div>
             </div>
              
-          
+         <hr>
          <div class="column">
                 <div class="content"> 
                    <!-- Content of the body--> 
