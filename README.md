@@ -25,7 +25,9 @@
                     <img src="https://www.alura.com.br/assets/api/cursos/javascript-programando-na-linguagem-web.svg" alt="" height="180em">                   
                  </div>
             </div>
-             
+            
+            <hr>
+            
             <div class="column">
                 <div class="content">
                     <h3>
@@ -37,6 +39,8 @@
                     <img src="https://gabih94.github.io/topCasaFina-arquitetura/assets/depoimentos/depoimento1.png" alt="" height="180em">
                 </div>
             </div>
+            
+            <hr>
              
             <div class="column">
                 <div class="content">
@@ -49,6 +53,8 @@
                     <img src="https://gabih94.github.io/projeto-base/assets/carrossel-img2.jpg" alt="" height="180em">
                 </div>
             </div>
+            
+            <hr>
              
             <div class="column">
                 <div class="content">
@@ -61,18 +67,33 @@
                     <img src="https://gabih94.github.io/alura-typer/assets/slide1.png" alt="" height="180em">
                 </div>
             </div>
+            
+            <hr>
          
-         <div class="column">
-                <div class="content">
-                    <h3>
-                        <a href="https://gabih94.github.io/pagina_barbearia/">Site Barbearia Alura</a>
-                    </h3>
-                    <p>
-                        Projeto da criação de uma pagina web utilizando HTML e CSS, com inclusão de formulários.
-                    </p>
-                    <img src="https://gabih94.github.io/pagina_barbearia/assets/banner.jpg" alt="" height="180em">
-                </div>
+            <div class="column">
+                   <div class="content">
+                       <h3>
+                           <a href="https://gabih94.github.io/pagina_barbearia/">Site Barbearia Alura</a>
+                       </h3>
+                       <p>
+                           Projeto da criação de uma pagina web utilizando HTML e CSS, com inclusão de formulários.
+                       </p>
+                       <img src="https://gabih94.github.io/pagina_barbearia/assets/banner.jpg" alt="" height="180em">
+                   </div>
             </div>
+             
+             <hr>
+             
+             <div class="column">
+                  <div class="content">
+                      <h3>
+                          <a href="https://gabih94.github.io/IMC/"> CalculadoraIMC</a>
+                      </h3>
+                      <p>
+                          Criação de Calculadora de IMC, com cçlassificação dos indices.
+                      </p>
+                 </div>
+             <div>
              
          <hr>
          <div class="column">
