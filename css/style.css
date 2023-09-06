@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+:root{
+    --color-primary:#222222;
+    --color-secondary:#F6F6F6;
+    --color-tertiary:#AA77FF;
+    --color-hover:#272727;
+    --color-border:#6527AF;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    box-sizing: border-box;
+    background-color: var(--color-primary);
+    color: var(--color-secondary);
+}
+
+.menu{
+    padding: 2% 0% 0% 15%;
+}
+
+.menu-home{
+    display: flex;
+    gap: 50px;
+}
+
+.menu-home-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: var(--color-tertiary);
+    text-decoration: none;
+}
+
+.cyan-color{
+    color: var(--color-tertiary);
+}
+
+.content{
+    padding: 4% 12%;
+    display: flex;
+    align-items: flex-start;
+    gap: 82px
+}
+
+.content-section{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 82px;
+}
+
+.content-about{
+    padding: 4% 12%;
+    display: flex;
+    gap: 82px
+}
+
+.content-link{
+    padding: 4% 15%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.content-link-title{
+    text-align: center;
+}
+
+.content-link-2col{
+    width: 100%;;
+    display: flex;
+    align-items:baseline;
+    justify-content: space-between;
+
+}
+
+.content-link-url{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.content-title{
+    font-size: 2.25rem;
+    font-family: 'Krona One', sans-serif;
+    font-weight: 200;
+
+}
+.content-about-title{
+    font-size: 1.375rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: var(--color-tertiary);
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.content-about-paragraph{
+    font-size: 1.125rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.content-about-link{
+    font-size: 1.125rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: var(--color-tertiary);
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.content-about-italic{
+    font-size: 1rem;
+    font-weight:normal;
+    font-style: italic;
+    color: var(--color-secondary);
+}
+
+.content-about-2col{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+}
+
+.content-about-url{
+    width: 50%;
+    height: 100vh;
+}
+
+.content-paragraph{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+.content-list{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: disclosure-closed;
+    list-style-position: inside;
+}
+
+.content-button{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.content-subtitle{
+    font-size: 1.5rem;
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+}
+
+.content-button-style{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid var(--color-tertiary);
+    width: 70%;
+    padding: 21.5px 0px;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-style: normal;
+    text-align: center;
+    color: var(--color-secondary);
+    text-decoration: none;
+}
+
+.content-button-style:hover{
+    background-color: var(--color-hover);
+    width: 380px;
+    padding: 22px 0px;
+    border: 3px solid var(--color-border);
+    font-size: 1.625rem;
+}
+.content-tex-link{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: var(--color-tertiary);
+    font-style: normal;
+}
+
+.baseboard{
+    padding: 24px;
+    color: var(--color-primary);
+    background-color: var(--color-tertiary);
+    line-height:25px
+}
+
+.baseboard-text{
+    text-align: end;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.image{
+    height: fit-content;
+    width: 50%;
+}
+
+ul{
+    list-style-type: disclosure-closed;
+    list-style-position: inside;
+}
+
+li.content-about-paragraph::marker{
+    color: var(--color-tertiary);
+}
